@@ -55,6 +55,14 @@ The screenshot below shows the shared folder contents successfully accessed from
 
 During the lab setup several documentation and configuration issues were identified and resolved.
 
+## What I Learned
+
+- How to create and configure a Windows 10 virtual machine using VirtualBox
+- How to install VirtualBox Guest Additions for better integration between host and guest systems
+- How shared folders work between the host system and the virtual machine
+- How to verify shared folder access using the command line
+- The importance of documenting configuration steps and troubleshooting results
+
 
 
 
