@@ -51,4 +51,10 @@ The screenshot below shows the shared folder contents successfully accessed from
 
 ![Shared folder working](screenshots/05-sharedfolder-working.jpeg)
 
+## Troubleshooting Notes
+
+During the lab setup several documentation and configuration issues were identified and resolved.
+
+
+
 
