@@ -41,5 +41,14 @@ The screenshot below shows the VirtualBox Guest Additions successfully installed
 
 ![Guest Additions installed](screenshots/04-guest-additions-installed.jpeg)
 
+## 5. Shared Folder Access Verification
+
+A file access test was performed to verify that the shared folder could be accessed from the Windows virtual machine.
+
+The shared folder contents were accessed through drive Z: to confirm successful communication between the host system and the virtual machine.
+
+The screenshot below shows the shared folder contents successfully accessed from the virtual machine.
+
+![Shared folder working](screenshots/05-sharedfolder-working.jpeg)
 
 
